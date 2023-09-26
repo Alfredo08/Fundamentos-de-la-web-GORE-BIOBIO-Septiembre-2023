@@ -1,0 +1,12 @@
+
+
+.lista-imagenes{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    gap: 15px;
+}
+
+.imagen-perro{
+    width: 450px;
+}
